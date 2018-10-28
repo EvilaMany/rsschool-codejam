@@ -1,0 +1,29 @@
+{
+  "name": "rs-recoursive",
+  "version": "1.0.0",
+  "descrition": "",
+  "main": "src/index.js",
+  "private": true,
+  "scripts": {
+    "test":"mocha"
+  },
+  "dependencies": {
+    "mocha": "^5.2.0"
+  },
+  "author": "Nikita Ivanenko <lineman98@mail.ru>",
+  "license": "MIT",
+  "devDependencies": {
+    "eslint": "^5.8.0",
+    "eslint-config-airbnb-base": "^13.1.0",
+    "eslint-plugin-import": "^2.14.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/evilamany/rs-recoursive.git"
+  },
+  "bugs": {
+    "url": "https://github.com/evilamany/rs-recoursive/issues"
+  },
+  "homepage": "https://github.com/evilamany/rs-recoursive#readme",
+  "description": ""
+}
