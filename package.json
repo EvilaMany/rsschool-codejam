@@ -1,0 +1,24 @@
+{
+  "name": "make",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "mocha test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/evilamany/rs-make.git"
+  },
+  "devDependencies": {
+    "eslint": "^5.8.0",
+    "eslint-config-airbnb-base": "^13.1.0",
+    "eslint-plugin-import": "^2.14.0"
+  },
+  "author": "nikita ivanenko lineman98@mail.ru",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/evilamany/rs-make/issues"
+  },
+  "homepage": "https://github.com/evilamany/rs-make#readme"
+}
